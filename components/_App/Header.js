@@ -25,7 +25,7 @@ function Header() {
               src="/static/logo.svg"
               style={{ marginRight: "1em" }}
             />
-            ReactReserve
+            DealCrusher
           </Menu.Item>
         </Link>
 
